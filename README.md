@@ -1,2 +1,2 @@
-# number-theory
+# Number Theory
 Number theory codes 
