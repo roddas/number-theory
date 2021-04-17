@@ -2,12 +2,12 @@
 Number theory is a branch of pure mathematics devoted primarily to the study of the integers and integer-valued functions.
 In this repository you can find a many scripts that is used to solve the most popular problems in this area ,such as:
 
-**Binary Exponenciation**
-**Great Common Divisor (GCD)**
-**Least Common Multiple**
-**Primality Test**
-**Prime factor decomposition**
-**Sieve of Erastothenes**
+-**Binary Exponenciation**
+-**Great Common Divisor (GCD)**
+-**Least Common Multiple**
+-**Primality Test**
+-**Prime factor decomposition**
+-**Sieve of Erastothenes**
 
 
 # Resources
