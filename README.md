@@ -4,6 +4,8 @@ In this repository you can find a many scripts that is used to solve the most po
 
 **Binary Exponenciation**
 
+**Fast Modular Exponenciation**
+
 **Great Common Divisor (GCD)**
 
 **Least Common Multiple**
